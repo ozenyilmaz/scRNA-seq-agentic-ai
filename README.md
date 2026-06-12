@@ -5,7 +5,7 @@ Multi-Criteria Therapeutic Target Prioritization from single-cell RNA-Seq
 [![Open In Colab](https://img.shields.io/badge/Colab-Run%20Pipeline-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/KULLANICI_ADIN/scRNA-seq-target-prioritization/blob/main/)
 
 ## Executive Summary
-his repository contains a modular, production-grade single-cell RNA-sequencing (scRNA-seq) framework designed for drug target prioritization Engineered as an **Agentic AI Knowledge-Harmonization Layer**, the pipeline translates unsupervised cluster markers into clinically validated therapeutic candidates. 
+This repository contains a modular, production-grade single-cell RNA-sequencing (scRNA-seq) framework designed for drug target prioritization Engineered as an **Agentic AI Knowledge-Harmonization Layer**, the pipeline translates unsupervised cluster markers into clinically validated therapeutic candidates. 
 
 By bridging single-cell transcriptomics with real-time semantic queries across **NCBI PubMed** and the **ChEMBL REST API**  the architecture calculates a composite multi-criteria priority scoreIt incorporates robust mathematical shields against un-druggable target populism, algorithmic sifting of technical noise, and information-theoretic dynamic criteria weighting.
 
