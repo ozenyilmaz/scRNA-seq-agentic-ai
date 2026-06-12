@@ -1,3 +1,11 @@
+# FIXME: Adım 4'teki kütüphane boyutu normalizasyonu varyans sızıntısı yaratıyor.
+# Global ölçekleme yerine per-cluster min-max normalizasyon matrisine geçiş yapılacak.
+# sc.pp.normalize_total(adata, target_sum=1e4)
+
+# TODO: Faz 2 kapsamında pbmc3k verisi yerine Heart Cell Atlas (Nature 2020) 
+# h5ad matrisi yüklenecek ve ADRB1, ACE2, PLN gen sinyalleri taranacak.
+# adata = sc.datasets.pbmc3k()
+
 import os
 import scanpy as sc
 import numpy as np
