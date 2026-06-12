@@ -4,15 +4,15 @@ Using Agentic AI Knowledge-Harmonization and Shannon Entropy Weighting
 [![Open In Colab](https://img.shields.io/badge/Colab-Run%20Pipeline-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/KULLANICI_ADIN/scRNA-seq-target-prioritization/blob/main/)
 
 ## Executive Summary
-[cite_start]This repository contains a modular, production-grade single-cell RNA-sequencing (scRNA-seq) framework designed for drug target prioritization[cite: 301]. [cite_start]Engineered as an **Agentic AI Knowledge-Harmonization Layer**, the pipeline translates unsupervised cluster markers into clinically validated therapeutic candidates. 
+his repository contains a modular, production-grade single-cell RNA-sequencing (scRNA-seq) framework designed for drug target prioritization Engineered as an **Agentic AI Knowledge-Harmonization Layer**, the pipeline translates unsupervised cluster markers into clinically validated therapeutic candidates. 
 
-[cite_start]By bridging single-cell transcriptomics with real-time semantic queries across **NCBI PubMed** and the **ChEMBL REST API** [cite: 334, 335][cite_start], the architecture calculates a composite multi-criteria priority score[cite: 318]. [cite_start]It incorporates robust mathematical shields against un-druggable target populism, algorithmic sifting of technical noise, and information-theoretic dynamic criteria weighting[cite: 287, 315].
+By bridging single-cell transcriptomics with real-time semantic queries across **NCBI PubMed** and the **ChEMBL REST API**  the architecture calculates a composite multi-criteria priority scoreIt incorporates robust mathematical shields against un-druggable target populism, algorithmic sifting of technical noise, and information-theoretic dynamic criteria weighting.
 
 ---
 
 ## 🛠️ Workflow Architecture & Data Transformation Mechanics
 
-[cite_start]The core engine implements a rigid, seven-stage sequential data transformation network. [cite_start]Every phase transition is guarded by explicit state validation checkpoints to enforce mathematical integrity over the cell-to-target mapping.
+The core engine implements a rigid, seven-stage sequential data transformation network. Every phase transition is guarded by explicit state validation checkpoints to enforce mathematical integrity over the cell-to-target mapping.
 
 ```text
 [Raw Count Matrix] ──> Stage 1: Quality Control & Filtering
