@@ -51,9 +51,3 @@ The core engine implements a rigid, seven-stage sequential data transformation n
              ──────> Auto-corrects Type Mismatches ('4.0' -> 4)
              ──────> Generates Verified Drug Target Priorities
 
-<img width="780" height="468" alt="violin-plot-for-QC" src="https://github.com/user-attachments/assets/bcd703ac-2bba-404c-b942-7a61cd0d30f3" />
-<img width="403" height="362" alt="leiden" src="https://github.com/user-attachments/assets/f730da34-6a98-4d69-b0b5-47c8156158f0" />
-<img width="444" height="500" alt="top5_marker_genes_for_cells_groups" src="https://github.com/user-attachments/assets/38b096de-aa07-4ee3-aaff-992973a8feba" />
-<img width="395" height="364" alt="UMAP_controls" src="https://github.com/user-attachments/assets/4fccb111-42a1-4786-aeac-1107c213f118" />
-
-
