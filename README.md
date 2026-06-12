@@ -37,7 +37,7 @@ The core engine implements a rigid, seven-stage sequential data transformation n
                                (Multi-API Harvesting & Shannon Entropy Scoring)
 
 
-┌─────────────────────────────────────────────────────────┐
+       ┌─────────────────────────────────────────────────────────┐
        │             KNOWLEDGE-HARMONIZATION AGENT               │
        └────────────────────────────┬────────────────────────────┘
                                     │
@@ -50,4 +50,4 @@ The core engine implements a rigid, seven-stage sequential data transformation n
              ──────> Auto-corrects Type Mismatches ('4.0' -> 4)
              ──────> Generates Verified Drug Target Priorities
 
-The four-phase roadmap (§6) provides a technically rigorous path toward a high-sensitivity cardiac drug-discovery instrument: replacing the PBMC reference with a cardiac-native single-cell atlas (§6.1) will simultaneously resolve the biological domain gap and unlock the full discriminative potential of the ChEMBL and PubMed enrichment layers, while per-cluster normalization (§6.2), curve selection (§6.3), and multi-database extension (§6.4) will furnish the rank-permutation sensitivity required for a publication-grade cardiovascular genomics analysis.
+
