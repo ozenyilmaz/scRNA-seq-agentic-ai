@@ -1,0 +1,7 @@
+scanpy[leiden]>=1.9.0
+python-igraph>=0.10.0
+louvain>=0.8.0
+matplotlib>=3.5.0
+numpy>=1.22.0
+pandas>=1.4.0
+requests>=2.28.0
