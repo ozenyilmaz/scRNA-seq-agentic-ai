@@ -1,5 +1,6 @@
-# Multi-Criteria Therapeutic Target Prioritization from single-cell RNA-Seq
-Using Agentic AI Knowledge-Harmonization and Shannon Entropy Weighting
+# Using Agentic AI Knowledge-Harmonization and Shannon Entropy Weighting for scRNA Sequencing
+Multi-Criteria Therapeutic Target Prioritization from single-cell RNA-Seq
+
 
 [![Open In Colab](https://img.shields.io/badge/Colab-Run%20Pipeline-orange?style=for-the-badge&logo=google-colab)](https://colab.research.google.com/github/KULLANICI_ADIN/scRNA-seq-target-prioritization/blob/main/)
 
